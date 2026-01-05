@@ -25,3 +25,7 @@ B.E., Data Science and Big Data Technology, China University of Mining and Techn
 #### Research Interests
 <!-- Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring -->
 海气相互作用及其对东亚气候影响、ENSO动力学、机器学习和数值模式在气候模拟和预测中的应用、深度学习可解释性研究
+
+#### ENSO预测系统
+
+基于SST-Nudging初始化方案构建的FGOALS-g3短期气候预测系统 [![FGOALS-g3](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://lihq-phd.github.io/test_enso_prediction.github.io)
