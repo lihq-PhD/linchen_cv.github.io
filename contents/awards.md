@@ -32,3 +32,8 @@
 - 国家自然科学青年项目，ENSO与气候平均态的相互作用—基于海气耦合模式的数值模拟研究，NSFC41606011，2017-2019，参与
 
 - 国家自然科学面上项目，古气候背景下ENSO与气候平均态关系研究，NSFC41376002，2014-2017，参与
+
+
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chenlin_nuist){: style="float: right;"} -->
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=chenlin_nuist" alt="visitor badge" align="right">
