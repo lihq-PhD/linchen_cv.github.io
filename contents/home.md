@@ -28,7 +28,7 @@ B.E., Data Science and Big Data Technology, China University of Mining and Techn
 
 #### ENSO预测系统
 
-基于SST-Nudging初始化方案构建的FGOALS-g3短期气候预测系统 [![FGOALS-g3](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://lihq-phd.github.io/test_enso_prediction.github.io)
+基于SST-Nudging初始化方案构建的FGOALS-g3短期气候预测系统 [![FGOALS-g3](https://img.shields.io/badge/FGOALS--g3-github-blue?logo=github)](https://lihq-phd.github.io/test_enso_prediction.github.io)
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chenlin_nuist)
